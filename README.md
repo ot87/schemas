@@ -1,4 +1,4 @@
-This project is a simple (at least for now) app to create lists of medications (or anything else) to use built with help of React, Redux and React Final Forms.
+This project is a simple (at least for now) app to create lists of medications (or anything else) to use built with React, Redux and React Final Forms. Tests are written with Jest and React Testing Library.
 
 Its draft name is Schemas.
 
