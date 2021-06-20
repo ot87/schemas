@@ -1,13 +1,13 @@
-This project is a simple (at least for now) app to create lists of medications (or anything else) to use built with React, Redux and React Final Forms. Tests are written with Jest and React Testing Library.
+The project is a simple (at least for now) app to create lists of medications (or anything else) to use.
 
-Its draft name is Schemas.
+Built with `React`, `Redux` and `React Final Forms`.
+
+Tests are written with `Jest` and `React Testing Library`.
 
 The app offers functionality to create mentioned above simple lists of medications with its quantity and time of intake.
 
 Further development is coming soon!
 
-See the documentation here:
-https://ot87.github.io/schemas-docs/
+Documentation: https://ot87.github.io/schemas-docs/
 
-The application is here:
-https://ot87.github.io/schemas/
+Demo: https://ot87.github.io/schemas/
